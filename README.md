@@ -29,3 +29,7 @@ python3 csvToJson.py
 You can view the graph by converting the created JSON file into an online link and making it the `data  > url`parameter in the [VEGA Editor](https://vega.github.io/editor/#/edited).
 
 VEGA EDITOR: https://vega.github.io/editor/#/edited
+
+
+
+![Vega Radial Tree Graph](https://vega.github.io/editor/images/examples/vg/radial-tree-layout.vg.png "Vega Radial Tree Graph")
