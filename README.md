@@ -1,4 +1,4 @@
-# testjson
+# CSV-JSON Converter for Vega Radial Tree Layout
 
 VEGA EDITOR: https://vega.github.io/editor/#/edited
 
