@@ -1,6 +1,6 @@
 # CSV-JSON Converter for Vega Radial Tree Layout
 
-VEGA EDITOR: https://vega.github.io/editor/#/edited
+
 
 
 To install Python libraries, use a virtual environment:
@@ -23,3 +23,9 @@ python3 csvToJson.py
 ```
 
 **Important Note:** _CSV file must be in <u>"Comma delimited UTF-8"</u> Format_
+
+
+**Usage:**
+You can view the graph by converting the created JSON file into an online link and making it the `data  > url`parameter in the [VEGA Editor](https://vega.github.io/editor/#/edited).
+
+VEGA EDITOR: https://vega.github.io/editor/#/edited
