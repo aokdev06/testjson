@@ -21,3 +21,5 @@ Run Example:
 ```bash
 python3 csvToJson.py
 ```
+
+**Important Note:** _CSV file must be in <u>"Comma delimited UTF-8"</u> Format_
